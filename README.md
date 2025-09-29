@@ -1,1 +1,1 @@
-# Module-1---Employee-Management-FastAPI-PostgreSQL-Streamlit-
+# Module-1-Employee-Management-FastAPI-PostgreSQL-Streamlit-
